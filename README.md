@@ -5,6 +5,7 @@ server.c---server
 ```
 gcc -c client client.c
 gcc -c server server.
+```
 
 然后打开两个终端
 ```
